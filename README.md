@@ -49,3 +49,21 @@ This repository contains a collection of resources for building your fintech sta
 
 ## Generative AI
 [Selecting the right foundation model for your startup | AWS Startups Blog](https://aws.amazon.com/blogs/startups/selecting-the-right-foundation-model-for-your-startup/)
+
+# Specialised Solutions
+
+## Double Entry Accounting (including 3rd party solutions)
+
+* [Double Entry Accounting with Amazon QLDB](https://github.com/aws-samples/amazon-qldb-double-entry-sample-java)
+* [Tigerbeetle](https://tigerbeetle.com/)
+* [Modern Treasury](https://www.moderntreasury.com/products/ledgers)
+* [Formance](https://www.formance.com/)
+
+## PCI Data Vault
+
+* [Skyflow](https://aws.amazon.com/marketplace/seller-profile?id=seller-ywtuaxoh5n6nm)
+
+## Blockchain and Tokenization
+
+* [Kaleido](https://aws.amazon.com/marketplace/pp/prodview-3ugbsbvsq3hto?sr=0-1&ref_=beagle&applicationId=AWSMPContessa) 
+* [Medici (Open-sourced by Flash Payments)](https://github.com/flash-oss/medici)
