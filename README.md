@@ -58,6 +58,7 @@ This repository contains a collection of resources for building your fintech sta
 * [Tigerbeetle](https://tigerbeetle.com/)
 * [Modern Treasury](https://www.moderntreasury.com/products/ledgers)
 * [Formance](https://www.formance.com/)
+* [Medici (Powered by MongoDB, Open-sourced by Flash Payments)](https://github.com/flash-oss/medici)
 
 ## PCI Data Vault
 
@@ -66,4 +67,4 @@ This repository contains a collection of resources for building your fintech sta
 ## Blockchain and Tokenization
 
 * [Kaleido](https://aws.amazon.com/marketplace/pp/prodview-3ugbsbvsq3hto?sr=0-1&ref_=beagle&applicationId=AWSMPContessa) 
-* [Medici (Open-sourced by Flash Payments)](https://github.com/flash-oss/medici)
+
