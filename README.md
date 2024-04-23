@@ -54,11 +54,11 @@ This repository contains a collection of resources for building your fintech sta
 
 ## Double Entry Accounting (including 3rd party solutions)
 
-* [Double Entry Accounting with Amazon QLDB](https://github.com/aws-samples/amazon-qldb-double-entry-sample-java)
 * [Tigerbeetle](https://tigerbeetle.com/)
 * [Modern Treasury](https://www.moderntreasury.com/products/ledgers)
 * [Formance](https://www.formance.com/)
 * [Medici (Powered by MongoDB, Open-sourced by Flash Payments)](https://github.com/flash-oss/medici)
+* [ImmuDB (open-source immutable database)](https://immudb.io/)
 
 ## PCI Data Vault
 
