@@ -54,6 +54,9 @@ This repository contains a collection of resources for building your fintech sta
 
 * [Building an API platform on AWS](https://serverlessland.com/content/service/api-gateway)
 
+* Customer Examples
+ * [How Traveloka Uses Backstage as an API Developer Portal for Amazon API Gateway](https://aws.amazon.com/blogs/opensource/how-traveloka-uses-backstage-as-an-api-developer-portal-for-amazon-api-gateway/)
+
 * Partner solutions for API Gateway:
   * [Video: AWS re:Invent 2023 - Fully managed Kong Gateway SaaS on Konnect and AWS, with live demo](https://www.youtube.com/watch?v=NDvA0cfkEOs)
 
