@@ -50,6 +50,23 @@ This repository contains a collection of resources for building your fintech sta
 ## Generative AI
 [Selecting the right foundation model for your startup | AWS Startups Blog](https://aws.amazon.com/blogs/startups/selecting-the-right-foundation-model-for-your-startup/)
 
+## Building an API developer platform
+
+* [Building an API platform on AWS](https://serverlessland.com/content/service/api-gateway)
+
+* Partner solutions for API Gateway:
+  * [Video: AWS re:Invent 2023 - Fully managed Kong Gateway SaaS on Konnect and AWS, with live demo](https://www.youtube.com/watch?v=NDvA0cfkEOs)
+
+* Tools for API documentation with open-source versions:
+  * https://redocly.com/ 
+  * https://stoplight.io/
+  * https://github.com/slatedocs/slate
+  * https://rapidocweb.com/
+
+* To build an ecosystem of 3rd party integrations and workflows to your APIs:
+  * https://n8n.io/
+  * https://prismatic.io/
+
 # Specialised Solutions
 
 ## Double Entry Accounting (including 3rd party solutions)
